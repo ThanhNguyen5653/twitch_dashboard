@@ -1,0 +1,47 @@
+_/.gitignore
+# Dependencies
+/node_modules
+/node_modules/**
+**/@next/**
+**/@img/**
+/.next
+/.swc
+**/*.node
+**/.next
+**/node_modules
+/.pnp
+.pnp.js
+
+# Build & Cache
+/out
+/build
+/.next
+/dist
+.next/
+.next/**
+**/*.pack.gz
+**/*.js.map
+
+# Large binary files
+**/*.dylib
+**/*.node
+**/*.so
+
+# Testing
+/coverage
+/test_db
+
+# Environment and local files
+.env*
+.DS_Store
+*.pem
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+/venv/
+
+# IDE
+.vscode/
