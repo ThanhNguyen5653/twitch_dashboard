@@ -98,16 +98,8 @@ twitch_/
 
 ## Learning Objectives
 
-- Practice writing complex SQL queries
+- Practice writing SQL queries
 - Understand database relationships
 - Learn about database optimization
 - Implement real-world UI patterns
 - Work with database clients in Python
-
-## Contributing
-
-Feel free to contribute to this project by submitting pull requests or creating issues for bugs and feature requests.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
